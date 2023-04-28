@@ -117,7 +117,8 @@ Multivariate Analysis - Barplot
 
 ![image](https://user-images.githubusercontent.com/118361409/235066731-7079fc16-2f26-4fa5-a54f-6a0fa6fd7e02.png)
 
-![image](https://user-images.githubusercontent.com/118361409/235066793-948cb165-9278-4a6c-819f-501eb47a59b9.png)
+![image](https://user-images.githubusercontent.com/118361409/235068243-e8f0454d-e927-444d-b707-4f4bd73c8459.png)
+
 
 ![image](https://user-images.githubusercontent.com/118361409/235067138-3de66e0b-e4ce-47ae-a1e4-f98cddd3077b.png)
 
